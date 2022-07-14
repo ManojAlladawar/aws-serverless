@@ -1,0 +1,11 @@
+serverless config credentials
+serverless config credentials --provider aws --key (access_key) --secret (your secret key)
+
+serverless
+
+cd aws-python-project
+
+notepad serverless.yml
+cd aws-python-project
+notepad serverless.yml
+serverless deploy serverless.yml
