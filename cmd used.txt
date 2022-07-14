@@ -9,3 +9,5 @@ notepad serverless.yml
 cd aws-python-project
 notepad serverless.yml
 serverless deploy serverless.yml
+
+add region and other things in .yml file use docs for more info.
